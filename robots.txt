@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peterlaulukch.github.io/sitemap.xml
